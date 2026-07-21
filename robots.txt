@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://french-furniture.vercel.app/sitemap.xml
